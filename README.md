@@ -22,6 +22,6 @@ Sadrzi UI testove za stranicu koristeci Selenium, JUnit 5, Maven, Java21 and Web
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jelena-coder/fishingbooker-ui-tests.git
-cd fishingbooker-ui-tests
+git clone https://github.com/jelena-coder/Automatski-zadatak
+cd Automatski-zadatak
 
